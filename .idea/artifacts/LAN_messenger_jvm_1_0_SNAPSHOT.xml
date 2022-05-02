@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LAN-messenger-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="LAN-messenger-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="LAN-messenger.jvmMain" />
+    </root>
+  </artifact>
+</component>
